@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Pabodha! 👋
 
-<!--
-**pabodha24/pabodha24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I am a **Computer Engineering undergraduate** at the University of Sri Jayewardenepura[cite: 1, 7, 8]. [cite_start]I specialize in architecting full-stack applications and IoT systems, with a deep interest in integrating AI and NLP models to build scalable, real-time solutions[cite: 4, 5].
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [cite_start]**Languages:** C, C++, Python, JavaScript (Node.js), Dart, HTML/CSS[cite: 45, 46].
+- [cite_start]**Frameworks/Libraries:** Flutter, React.js, Express.js, Flask[cite: 46].
+- [cite_start]**Tools & Databases:** Firebase, MongoDB, MySQL, Google Cloud Platform, Git/GitHub[cite: 38, 46, 48].
+
+### 🏆 Highlighted Projects
+- [cite_start]**RoadSafeAI:** An IoT-based driver drowsiness detection system using ESP32-CAM and YOLOv8[cite: 26, 28, 29].
+- [cite_start]**Brain Tumor Detection:** A deep learning tool achieving 98.04% accuracy with MRI scans[cite: 15, 17].
+- [cite_start]**CivicLink:** A public issue reporting portal digitizing citizen-to-government communication[cite: 33, 35].
+- [cite_start]**shelfMate:** An AI-powered supermarket assistant chatbot utilizing spaCy NLP[cite: 20, 22].
+
+### 📫 Reach Me
+- [cite_start]📧 Email: muthuharindi24@gmail.com 
+- [cite_start]🔗 [LinkedIn Profile](https://www.linkedin.com/in/pabodha-perera)
