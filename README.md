@@ -1,6 +1,6 @@
 # Hi there, I'm Pabodha! 👋
 
-I am a **Computer Engineering undergraduate** at the University of Sri Jayewardenepura. I specialize in architecting full-stack applications and IoT systems, with a deep interest in integrating AI and NLP models to build scalable, real-time solutions.
+I am a **Computer Engineering undergraduate** at the University of Sri Jayewardenepura. I specialize in architecting full-stack applications, with a deep interest in integrating AI and NLP models to build scalable, real-time solutions.
 
 ### 🛠️ Technical Toolkit
 
